@@ -1,0 +1,28 @@
+name: hawlk
+favicon: null
+layout_spectrum: 0.41880577919073403
+typography_spectrum: 0.7572913977783173
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8657504243310541
+  lightness: 0.840072576655075
+  saturation: 0.6097682225517929
+  rhythmicContrast: 0.314198479289189
+purpose: []
